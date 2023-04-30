@@ -5,6 +5,7 @@ import Laboral from "./components/Laboral";
 import Civil from "./components/Civil";
 import Penal from "./components/Penal";
 import Contacto from "./components/Contacto";
+import "./App.css"
 
 
 
@@ -13,7 +14,7 @@ function App() {
   <>
   <Navbar />
   
-  <div className="flex flex-col space-y-[25%] text-2xl mx-auto font-opti-times-roman mt-[68px] max-w-[600px] ">
+  <div id="container" className="flex flex-col space-y-[25%] mx-[auto] font-opti-times-roman mt-[68px] max-w-[300px]">
     <section id="inicio">
       <Inicio />
     </section>
