@@ -32,7 +32,7 @@ const Navbar = () => {
           <span className='text-4xl text-gray-medium mr-5'>
             <ImBriefcase />
           </span>
-          <div className='text-3xl'>Marcelo Facchetti</div>
+          <div className='text-3xl'>Nombre Apellido</div>
         </div>
         <div
           onClick={() => setOpen(!open)}
