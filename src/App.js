@@ -12,7 +12,10 @@ import "./App.css"
 function App() {
   return (
   <>
+  <div id="nav">
   <Navbar />
+  </div>
+
   
   <div id="container" className="flex flex-col space-y-[25%] mx-[auto] font-opti-times-roman mt-[68px] max-w-[300px]">
     <section id="inicio">

@@ -32,11 +32,11 @@ const Navbar = () => {
           <span className='text-4xl text-gray-medium mr-5'>
             <ImBriefcase />
           </span>
-          <div className='text-3xl'>Nombre Apellido</div>
+          <div className='text-2xl select-none md:text-4xl'>Nombre Apellido</div>
         </div>
         <div
           onClick={() => setOpen(!open)}
-          className='text-3xl absolute right-10 top-5 cursor-pointer md:hidden'
+          className='text-3xl w-14 flex items-center justify-center object-center h-5 absolute right-10 top-5 cursor-pointer md:hidden'
         >
           {open ? <IoClose /> : <IoMenu />}
         </div>

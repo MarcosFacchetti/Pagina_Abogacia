@@ -3,7 +3,7 @@ import React from "react";
 function Civil() {
   return (
     <div className="text-white">
-      <h1 className="text-4xl text-center border-b-[1px] mb-[4rem]">DERECHO CIVIL</h1>
+      <h1 className="text-4xl text-center mt-20 border-b-[1px] mb-[4rem]">DERECHO CIVIL</h1>
       <ul className="list-disc list-inside space-y-6 text-3xl">
         <li className="flex items-start">
           <span className="mr-2">*</span>

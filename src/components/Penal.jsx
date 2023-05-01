@@ -3,7 +3,7 @@ import React from "react";
 function Penal() {
   return (
     <div className="text-white flex flex-col">
-      <h1 className="text-4xl text-center border-b-[1px] mb-[4rem]">
+      <h1 className="text-4xl mt-20 text-center border-b-[1px] mb-[4rem]">
         DERECHO PENAL
       </h1>
       <ul>

@@ -3,7 +3,7 @@ import React from "react";
 function Laboral() {
   return (
     <div className="flex flex-col text-white font-opti-times-roman  space-y-[25px]">
-      <h1 className="text-center text-4xl mb-[3rem] border-b-[1px]">
+      <h1 className="text-center mt-20 text-4xl mb-[3rem] border-b-[1px]">
         DERECHO LABORAL
       </h1>
       <h2>DESPIDOS</h2>
